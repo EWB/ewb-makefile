@@ -1,4 +1,4 @@
-; By ewb - updated January 22, 2014
+; By ewb - updated January 27, 2014
 core = 7.x
 
 api = 2
@@ -10,13 +10,9 @@ projects[advanced_help][subdir] = "contrib"
 
 projects[backup_migrate][subdir] = "contrib"
 
-projects[boxes][subdir] = "contrib"
-
 projects[calendar][subdir] = "contrib"
 
 projects[colorbox][subdir] = "contrib"
-
-projects[context][subdir] = "contrib"
 
 projects[ctools][subdir] = "contrib"
 
@@ -108,7 +104,7 @@ projects[] = "responsive_bartik"
 
 ; Libraries
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.2/ckeditor_4.3.2_standard.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
